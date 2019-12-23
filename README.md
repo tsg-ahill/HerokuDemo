@@ -62,8 +62,8 @@ Make sure you have this locally cloned, and you have logged into git and heroku 
 
 ### Logging Into Heroku CLI
 1. In your cloned repo `heroku login`
-![imgs/HerokuLogin_CLIPrompt.png]
+![Heroku Login Prompt in Command Prompt](imgs/HerokuLogin_CLIPrompt.png
 1. Press enter to accept browser popup & login...
-![imgs/HerokuLogin_Browser.png]
+![Browser Popup for Heroku Authentication](imgs/HerokuLogin_Browser.png)
 1. Return to logged in CLI.
-![imgs/HerokuLogin_CLISuccess.png]
+![Login Success Dialog in the Command Prompt](imgs/HerokuLogin_CLISuccess.png)
